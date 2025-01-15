@@ -36,7 +36,7 @@ AI-Education-System/
 │   ├── server.js
 │   ├── package.json
 │
-└── README.md   
+└── README.md                   # Project documentation
 
 # Prerequisites
 
